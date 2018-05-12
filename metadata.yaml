@@ -1,0 +1,24 @@
+_repo: The-Call-of-the-EastA-Romance-of-Far-Formosa_45061
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45061-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Fraser, Thurlow
+    gutenberg_agent_id: '43057'
+    url: http://www.gutenberg.org/2009/agents/43057
+description: ''
+gutenberg_issued: '2014-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Taiwan -- Fiction'
+- !lcc 'PS'
+title: 'The Call of the East: A Romance of Far Formosa'
+url: http://www.gutenberg.org/ebooks/45061
